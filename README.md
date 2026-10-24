@@ -1,100 +1,168 @@
-# Hey there! I'm Ishaan Shailesh Phaye 👋
+<div align="center">
 
-<img alt="Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="300">
+<!-- Animated Living Identity Banner -->
+<!---->
 
-### 👨🏻‍💻 &nbsp;About Me
+<br/>
 
-💡 &nbsp;Passionate about building scalable systems, full-stack applications and Artificial Intelligence.  
-🎓 &nbsp;M.Tech CS student at **IIIT Lucknow** with strong foundations in DSA, C++, and full-stack development.  
-🗄️ &nbsp;Specialized knowledge in **Database Management Systems**, **Indexing**, **Query Optimization**, and **System Design**.  
-🏆 &nbsp;Solved 500+ DSA problems and consistently ranked on competitive coding assessments.  
-🌱 &nbsp;Currently exploring advanced **Operating Systems**, **Deep Learning**, and **Cloud Architecture**.  
-💬 &nbsp;Feel free to reach out for technical discussions, collaboration, or open-source contributions.  
-✉️ &nbsp;You can email me at [ishaanphaye@gmail.com](mailto:ishaanphaye@gmail.com). I'd love to connect!  
-📄 &nbsp;Check out my [LinkedIn](https://linkedin.com/in/ishaanphaye) for more professional details!
-
----
-
-### 🛠 &nbsp;Tech Stack
-
-**Languages:**  
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)
-
-**Web & Backend:**  
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-
-**ML & Data Science:**  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-05122A?style=flat&logo=scikit-learn)
-![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
-
-**Databases:**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
- 
-
-**Mobile & Desktop:**  
-
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
-
-**Developer Tools:**  
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=google-colab)
-![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
----
-
-<h3 id="️-github-analytics">⚙️ &nbsp;GitHub Analytics</h3>
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iSHAANphaye&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iSHAANphaye&amp;layout=compact&amp;langs_count=8&amp;theme=algolia">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&random=false&width=750&height=60&lines=Hi!+I'm+ishaanphaye+%F0%9F%91%8B" alt="Typing SVG" />
 </a>
-</p>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=ishaanphaye&label=PLAYER+VIEWS&color=00FF41&style=for-the-badge&labelColor=0D1117" alt="views"/>
+<img src="https://img.shields.io/github/followers/ishaanphaye?label=ALLIES&style=for-the-badge&color=00F0FF&labelColor=0D1117&logo=github" alt="followers"/>
+<img src="https://img.shields.io/github/stars/ishaanphaye?label=LOOT&style=for-the-badge&color=FF00E5&labelColor=0D1117&logo=github" alt="stars"/>
+
+</div>
 
 ---
 
-### 🚀 &nbsp;Featured Projects
+## 🐱 About Me
 
-#### 🗄️ **Mini Database Storage Engine** | C++, B+Tree, Write-Ahead Logging
-- Built a disk-backed key-value store from scratch with **O(log n)** point lookups
-- Implemented **Write-Ahead Logging (WAL)** for crash-safe durability with atomicity guarantees
-- Engineered B+Tree node operations (splitting, merging, redistribution) with a custom buffer pool manager
-- [View on GitHub](https://github.com/ishaanphaye)
+<div align="center">
 
-#### 🛍️ **Vaatika Zone** | React, Express, MongoDB, Docker  
-- Developed a full-stack e-commerce web application for a regional startup
-- Optimized MongoDB schemas with custom indexing, reducing API latencies by **20%**
-- Managed complete SDLC from ideation to production deployment with Docker
-- [View on GitHub](https://github.com/ishaanphaye)
+<!---->
 
-#### 🤖 **Object Detection ML App** | Flutter, TensorFlow, TFLite
-- Led development of a mobile ML model with **93% classification accuracy**
-- Trained SSD MobileNet on MSCOCO dataset and deployed TFLite for real-time inference
-- Real-time mobile application with optimized edge deployment
-- [View on GitHub](https://github.com/ishaanphaye)
+</div>
+
+## ⚔️ `> cat inventory.txt` — Skill Tree
+
+<div align="center">
+
+**🧠 Languages**
+
+<img src="https://skillicons.dev/icons?i=py,c,java,js,html,css,r&theme=dark" />
+
+**🌐 Frameworks & Libraries**
+
+<img src="https://skillicons.dev/icons?i=react,flask,django,nodejs,tailwind,bootstrap&theme=dark" />
+
+<em>✏️ The tools you reach for, in a sentence.</em>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+
+**🗄️ Databases & DevOps**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,linux,docker,vscode&theme=dark" />
+
+**🧩 DSA & Problem Solving**
+
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+
+</div>
 
 ---
 
+## 📊 `> ./stats --player=ishaanphaye`
 
-### 🤝🏻 &nbsp;Connect with Me
+<div align="center">
 
-[![Email](https://img.shields.io/badge/-ishaanphaye@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:ishaanphaye@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-Ishaan%20Phaye-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ishaanphaye)
-[![GitHub](https://img.shields.io/badge/-ishaanphaye-05122A?style=flat&logo=github)](https://github.com/ishaanphaye)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/ishaanphaye)
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ishaanphaye&show_icons=true&hide_border=false&bg_color=0D1117&title_color=00FF41&icon_color=00F0FF&text_color=C9D1D9&border_color=00FF41&ring_color=FF00E5&include_all_commits=true&count_private=true&custom_title=%F0%9F%8E%AE%20PLAYER%20STATS" />
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ishaanphaye&layout=compact&hide_border=false&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&border_color=00F0FF&langs_count=8&custom_title=%E2%9A%94%EF%B8%8F%20WEAPON%20MASTERY" />
+
+<img src="https://streak-stats.demolab.com?user=ishaanphaye&theme=dark&background=0D1117&border=00FF41&ring=FF00E5&fire=FF00E5&currStreakNum=00FF41&sideNums=00F0FF&currStreakLabel=00F0FF&sideLabels=C9D1D9&dates=8B949E&stroke=00FF41" />
+
+</div>
 
 ---
-  
-*Open to opportunities and collaborations!* 🚀
+
+## 🏆 `> unlock --achievements`
+
+<div align="center">
+
+<img src="https://github-trophies.vercel.app/?username=ishaanphaye&theme=matrix&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
+
+</div>
+
+---
+
+## 📈 `> tail -f /var/log/commits.log`
+
+<div align="center">
+
+<!---->
+
+</div>
+
+---
+
+## 🐍 `> ./snake.exe --eat=contributions`
+
+<div align="center">
+
+<!---->
+
+</div>
+
+---
+
+## 🎯 `> cat current_quests.log`
+
+```diff
++ [ACTIVE]    🚀 Building: Data Science & ML Projects
++ [ACTIVE]    📚 Learning: AI/ML, Deep Learning, React
++ [ACTIVE]    💻 Grinding: DSA & Competitive Programming
+! [PENDING]   📊 Goal: Publish research in Data Science
+! [PENDING]   🌐 Shipping: Full-stack data-driven web apps
+- [LOCKED]    👑 Boss Fight: Land a dream role in Data Science / AI
+```
+
+<div align="center">
+
+| 🕹️ Stat | ▰▰▰▰▰▰▰▰▱▱ | Level |
+|:--|:--|:--|
+| 🐍 Python | `████████░░` | **80%** |
+| 📊 Data Science | `███████░░░` | **70%** |
+| 🧠 AI / ML | `██████░░░░` | **60%** |
+| ⚛️ React | `██████░░░░` | **60%** |
+| 🏗️ DSA | `███████░░░` | **70%** |
+| ☕ Caffeine | `██████████` | **MAX** |
+
+</div>
+
+---
+
+## 🎧 `> now_playing --mode=focus`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/♪_Lo--Fi_/_Synthwave_/_Focus_Beats-0D1117?style=for-the-badge&logo=spotify&logoColor=00FF41&labelColor=0D1117&color=00FF41" />
+
+</div>
+
+---
+
+## 📡 `> ping --connect`
+
+<div align="center">
+
+<a href="https://github.com/ishaanphaye"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&color=00F0FF" /></a>
+<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41&color=00FF41" /></a>
+<a href="https://www.linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=0A66C2" /></a>
+<a href="https://www.instagram.com/not_avi_20/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F&color=E4405F" /></a>
+
+<br/><br/>
+
+```bash
+$ echo "There is no spoon. Only data." | lolcat
+$ python3 -c "print('Hello, World! 🧠')"
+$ exit 0   # GAME OVER? Nah — INSERT COIN TO CONTINUE 🪙
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=140&section=footer&text=INSERT%20COIN%20TO%20CONTINUE&fontSize=26&fontColor=00FF41&animation=twinkling&fontAlignY=68" width="100%"/>
+
+</div>
+
+<!-- badge-auto: badge-pr-1 pr1 -->
+
+<p align="center"><sub>Ishaan Phaye · <a href="https://www.gitskins.com/readme-generator?template=community-night-shift-zckz">Night Shift</a> template by <a href="https://www.gitskins.com/creators/Avijit010325">@Avijit010325</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
