@@ -4,7 +4,7 @@
 
 **AI Systems & Software Engineer** &nbsp;|&nbsp; **M.Tech in Computer Science @ IIIT Lucknow**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ishaanphaye.is--a.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ishaanphaye.is-a.dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ishaanphaye.is--a.dev-00B4D8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ishaanphaye.is-a.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ishaan--phaye-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishaan-phaye-6786971b3/)
 [![Instagram](https://img.shields.io/badge/Instagram-ishaan__phaye-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ishaan_phaye/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-ishaanroxx-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ishaanroxx/)
